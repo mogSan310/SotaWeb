@@ -1,0 +1,175 @@
+header {
+    background-color:#90EE90;
+    height:100px;
+  }
+  
+  .contaier {
+    width:1900px;
+  }
+  
+  .darkmode {
+    margin-left:1100px;
+    display:inline-block;
+    font-size:23px;
+    background-color:#3cb371;
+    height:100px;
+    line-height:100px;
+    box-shadow:0px 6px black;
+    position:relative;
+    bottom:5.5px;
+    font-weight:bold;
+    color:black;
+    border:none;
+    
+  }
+
+  .btn:active {
+    box-shadow:none;
+    cursor:pointer;
+    position:relative;
+    top:3px;
+    
+  }
+
+  
+  
+  .header-left h1 {
+    float:left;
+    margin-left:20px;
+    margin-top:25px;
+    position:relative;
+  }
+  
+  
+  
+  main {
+    background-image:url(https://i.pinimg.com/originals/20/c2/3b/20c23b780410712159cedee812e25d8d.jpg);
+    background-size: cover;
+    height:500px;
+    width:100%;
+    vertical-align: top;
+    
+  }
+  
+  .main-container h1 {
+    font-size:100px;
+    text-align: center;
+    margin: auto 0;
+    padding-left:20px;
+    padding-top:120px;
+  -webkit-text-stroke: 3px black;
+  color:white;
+  }
+  
+  .left-container img {
+    width:300px;
+    height:350px;
+    padding-top:200px;
+    padding-left:60px;
+    float:left;
+  }
+  
+  .right-container img {
+   float:left;
+   padding-top:400px;
+   padding-left:300px;
+   position: relative;
+  }
+  
+  .right-container p {
+    position: absolute;
+    display:inline-block;
+    top:990px;
+    left:450px;
+    font-size:20px;
+    font-weight:bold;
+  }
+  
+  .mokuji {
+   height:1800px;
+   padding-left:20x;
+   padding-top:300px;
+   text-align:center;
+  
+  }
+  
+  .moji  {
+    background-color:ghostwhite;
+    margin:200px 450px;
+    border: solid 2px black;
+    font-weight:bold;
+    padding:10px 60px;
+    text-align: center;
+  }
+  
+  .moji a {
+    font-size:30px;
+    color:black;
+    display:inline-block;
+    text-indent:-8em;
+    margin-right:120px;
+    margin-left:210px;
+  }
+  
+  .explain {
+    font-size:20px;
+  }
+  
+  .explain li {
+    list-style:none;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    padding-left:300px;
+    font-weight:bold;
+    color:#DC143C;
+  }
+  
+  .explain img {
+    width:300px;
+    height:350px;
+    padding-top:20px;
+    padding-left:60px;
+    float:left;
+  }
+  
+  .LINE {
+    float:left;
+    padding-top:200px;
+    position:relative;
+  }
+  
+  .LINE p {
+    position: absolute;
+    top:220px;
+    left:90px;
+    font-size:30px;
+    font-weight:bold;
+  }
+  
+  .last h1  {
+    padding-top:450px;
+  }
+  
+  .last p {
+    font-size:20PX;
+  }
+  
+  
+  
+  header img {
+    height:100px;
+    width:80px;
+    float:left;
+    position:absolute;
+    bottom:670px;
+    left:65px;
+    padding-top:10px;
+  }
+  
+  body {
+    border:double 20px #90EE90;
+  }
+
+  footer { 
+    height:100px;
+  }
