@@ -167,9 +167,26 @@ header {
   }
   
   body {
+    height: 3200px;
     border:double 20px #90EE90;
   }
 
   footer { 
-    height:100px;
+    height:200px;
   }
+
+ .game{
+   position: absolute;
+   top:2300px;
+   left: 350px;
+ }
+
+
+
+ .game a{
+   display: block;
+   border:2px black ;
+   padding-top:10px;
+   padding-left:2px;
+   font-size:40px;
+ }
